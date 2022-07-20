@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/keyboardGame/static/css/main.21947ae1.chunk.css",
+    "main.js": "/keyboardGame/static/js/main.6f2f696b.chunk.js",
+    "main.js.map": "/keyboardGame/static/js/main.6f2f696b.chunk.js.map",
+    "runtime-main.js": "/keyboardGame/static/js/runtime-main.2cf1a3ca.js",
+    "runtime-main.js.map": "/keyboardGame/static/js/runtime-main.2cf1a3ca.js.map",
+    "static/js/2.3cf4dd4e.chunk.js": "/keyboardGame/static/js/2.3cf4dd4e.chunk.js",
+    "static/js/2.3cf4dd4e.chunk.js.map": "/keyboardGame/static/js/2.3cf4dd4e.chunk.js.map",
+    "index.html": "/keyboardGame/index.html",
+    "static/css/main.21947ae1.chunk.css.map": "/keyboardGame/static/css/main.21947ae1.chunk.css.map",
+    "static/js/2.3cf4dd4e.chunk.js.LICENSE.txt": "/keyboardGame/static/js/2.3cf4dd4e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cf1a3ca.js",
+    "static/js/2.3cf4dd4e.chunk.js",
+    "static/css/main.21947ae1.chunk.css",
+    "static/js/main.6f2f696b.chunk.js"
+  ]
+}
